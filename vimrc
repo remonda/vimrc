@@ -3,14 +3,14 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 syntax on
 """""""""""""
-"let g:molokai_original = 1
+let g:molokai_original = 1
 "let g:rehash256 = 1
-"colorscheme molokai
+colorscheme molokai
 
-colorscheme solarized
+"colorscheme solarized
 set background=dark
-let g:solarized_termcolors=256
-let g:rehash256 = 1
+"let g:solarized_termcolors=256
+"let g:rehash256 = 1
 
 "colorscheme desert
 
@@ -130,7 +130,7 @@ Plugin 'https://github.com/aperezdc/vim-template.git'
 Plugin 'FuzzyFinder'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
-Plugin 'sickill/vim-monokai'
+Plugin 'tomasr/molokai'
 Plugin 'altercation/vim-colors-solarized'
 
 " scripts not on GitHub
